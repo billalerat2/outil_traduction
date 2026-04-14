@@ -54,8 +54,11 @@ htmlcov/
 # Project-specific: data & outputs (souvent volumineux)
 data/*
 !data/.gitkeep
+!data/sample.json
+!data/sample02.json
 output/*
 !output/.gitkeep
+!output/translated.csv
 *.csv
 *.tsv
 *.parquet

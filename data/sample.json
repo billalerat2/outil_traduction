@@ -1,0 +1,50 @@
+[
+  {
+    "source": "Bonjour le monde",
+    "reference": "Hello world",
+    "meta": {
+      "id": 1,
+      "tags": ["greeting", "example"],
+      "author": {
+        "name": "Jean Dupont",
+        "country": "France"
+      }
+    }
+  },
+  {
+    "source": "Je suis très heureuse aujourd'hui",
+    "reference": "I am very happy today",
+    "meta": {
+      "id": 2,
+      "tags": ["emotion", "daily"],
+      "author": {
+        "name": "Marie Curie",
+        "country": "Pologne"
+      }
+    }
+  },
+  {
+    "source": "Le chat dort sur le canapé",
+    "reference": "The cat sleeps on the sofa",
+    "meta": {
+      "id": 3,
+      "tags": ["animal", "home"],
+      "author": {
+        "name": "Paul Martin",
+        "country": "France"
+      }
+    }
+  },
+  {
+    "source": "Le chat dort sur le canapé",
+    "reference": null,
+    "meta": {
+      "id": 3,
+      "tags": ["animal", "home"],
+      "author": {
+        "name": "Paul Martin",
+        "country": "France"
+      }
+    }
+  }
+]

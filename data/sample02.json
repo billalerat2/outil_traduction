@@ -1,0 +1,102 @@
+[
+  {
+    "source": "Bonjour le monde? Bonjour le monde!",
+    "reference": "Hello world",
+    "meta": { "id": 1, "tags": ["greeting"], "author": { "name": "Jean", "country": "France" } }
+  },
+  {
+    "source": "Je suis très heureuse...",
+    "reference": "I am very happy today",
+    "meta": { "id": 2, "tags": ["emotion", "daily"], "author": { "name": "Marie", "country": "France" } }
+  },
+  {
+    "source": null,
+    "reference": "The cat sleeps",
+    "meta": { "id": 3, "tags": ["animal"], "author": { "name": "Paul", "country": "Belgium" } }
+  },
+  {
+    "source": "Le chien court dans le jardin",
+    "reference": null,
+    "meta": { "id": 4, "tags": ["animal", "action"], "author": { "name": "Luc", "country": "France" } }
+  },
+  {
+    "source": null,
+    "reference": "The dog runs in the garden",
+    "meta": { "id": 5, "tags": ["animal"], "author": { "name": "Anna", "country": "Germany" } }
+  },
+  {
+    "source": "La météo est magnifique aujourd'hui",
+    "reference": "The weather is wonderful today",
+    "meta": { "id": 6, "tags": ["weather"], "author": { "name": "Claire", "country": "France" } }
+  },
+  {
+    "source": "Je prépare un café",
+    "reference": "I am making coffee",
+    "meta": { "id": 7, "tags": ["kitchen"], "author": { "name": "Marc", "country": "France" } }
+  },
+  {
+    "source": "Le soleil se couche",
+    "reference": "The sun is setting",
+    "meta": { "id": 8, "tags": ["nature"], "author": { "name": "Sophie", "country": "France" } }
+  },
+  {
+    "source": "Je lis un livre intéressant",
+    "reference": "I am reading an interesting book",
+    "meta": { "id": 9, "tags": ["reading"], "author": { "name": "Hugo", "country": "France" } }
+  },
+  {
+    "source": "Nous allons au marché",
+    "reference": "We are not going to the market",
+    "meta": { "id": 10, "tags": ["daily"], "author": { "name": "Emma", "country": "France" } }
+  },
+  {
+    "source": null,
+    "reference": null,
+    "meta": { "id": 11, "tags": ["invalid"], "author": { "name": "Unknown", "country": "Unknown" } }
+  },
+  {
+    "source": "Le train arrive en retard",
+    "reference": "The train is not arriving late",
+    "meta": { "id": 12, "tags": ["transport"], "author": { "name": "Pierre", "country": "France" } }
+  },
+  {
+    "source": "Je cuisine des pâtes",
+    "reference": "I am cooking pasta",
+    "meta": { "id": 13, "tags": ["kitchen"], "author": { "name": "Laura", "country": "Italy" } }
+  },
+  {
+    "source": "La lune est très brillante ce soir",
+    "reference": "The moon is very bright tonight",
+    "meta": { "id": 14, "tags": ["nature", "night"], "author": { "name": "Nina", "country": "France" } }
+  },
+  {
+    "source": "Je regarde un film",
+    "reference": "I am watching a movie",
+    "meta": { "id": 15, "tags": ["entertainment"], "author": { "name": "Alex", "country": "France" } }
+  },
+  {
+    "source": null,
+    "reference": "The flowers are blooming",
+    "meta": { "id": 16, "tags": ["nature"], "author": { "name": "Eva", "country": "France" } }
+  },
+  {
+    "source": "Les enfants jouent dans le parc",
+    "reference": "The children are playing in the park",
+    "meta": { "id": 17, "tags": ["kids", "park"], "author": { "name": "Tom", "country": "France" } }
+  },
+  {
+    "source": "Je travaille sur un projet important",
+    "reference": "I am working on an important project",
+    "meta": { "id": 18, "tags": ["work"], "author": { "name": "Darya", "country": "France" } }
+  },
+  {
+    "source": "Le repas est prêt",
+    "reference": "The meal is ready",
+    "meta": { "id": 19, "tags": ["kitchen"], "author": { "name": "Mila", "country": "France" } }
+  },
+  {
+    "source": "La voiture ne démarre pas",
+    "reference": "The car won't start",
+    "meta": { "id": 20, "tags": ["transport", "problem"], "author": { "name": "Leo", "country": "France" } }
+  }
+]
