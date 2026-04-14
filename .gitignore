@@ -52,8 +52,10 @@ htmlcov/
 .ipynb_checkpoints/
 
 # Project-specific: data & outputs (souvent volumineux)
-data/
-output/
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
 *.csv
 *.tsv
 *.parquet
