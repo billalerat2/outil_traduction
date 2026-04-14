@@ -1,0 +1,16 @@
+source,reference,meta.id,meta.tags[0],meta.author.name,meta.author.country,filename,meta.tags[1],translation
+Bonjour le monde? Bonjour le monde!,Hello world,1,greeting,Jean,France,sample02.json,,"Hello, the world? Hello, the world!"
+Je suis très heureuse...,I am very happy today,2,emotion,Marie,France,sample02.json,daily,I'm very happy...
+La météo est magnifique aujourd'hui,The weather is wonderful today,6,weather,Claire,France,sample02.json,,The weather is beautiful today
+Je prépare un café,I am making coffee,7,kitchen,Marc,France,sample02.json,,I'm making coffee.
+Le soleil se couche,The sun is setting,8,nature,Sophie,France,sample02.json,,The sun goes down
+Je lis un livre intéressant,I am reading an interesting book,9,reading,Hugo,France,sample02.json,,I'm reading an interesting book.
+Nous allons au marché,We are not going to the market,10,daily,Emma,France,sample02.json,,We're going to the market.
+Le train arrive en retard,The train is not arriving late,12,transport,Pierre,France,sample02.json,,Train arrives late
+Je cuisine des pâtes,I am cooking pasta,13,kitchen,Laura,Italy,sample02.json,,I cook pasta
+La lune est très brillante ce soir,The moon is very bright tonight,14,nature,Nina,France,sample02.json,night,The moon is very bright tonight
+Je regarde un film,I am watching a movie,15,entertainment,Alex,France,sample02.json,,I'm watching a movie.
+Les enfants jouent dans le parc,The children are playing in the park,17,kids,Tom,France,sample02.json,park,Children play in the park
+Je travaille sur un projet important,I am working on an important project,18,work,Darya,France,sample02.json,,I'm working on an important project.
+Le repas est prêt,The meal is ready,19,kitchen,Mila,France,sample02.json,,The meal is ready
+La voiture ne démarre pas,The car won't start,20,transport,Leo,France,sample02.json,problem,The car won't start
